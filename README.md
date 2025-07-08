@@ -29,9 +29,7 @@
 
 1. The repository:
 
-   ```bash
-   [https://github.com/sonisubham2701/FindMyTrain.git
-   cd FindMyTrain](https://github.com/sonisubham2701/core--java-project/tree/57b342b3a1de36860e1ae311fa248ab39d423f48#-how-to-run)
+   https://github.com/sonisubham2701/core--java-project.git
 
 2.Compile the Java files:
 
